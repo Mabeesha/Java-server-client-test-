@@ -1,2 +1,2 @@
 # Java-server-client-test-
-Java server-client test by simple bidding program with a simple GUI
+Multi-threaded socket server for stock auctions in JAVA with a GUI.
